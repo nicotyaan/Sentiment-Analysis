@@ -1,3 +1,11 @@
+#Sentiment Aalysis 
+🎬 映画レビュー感情分析（Sentiment Analysis）
+このプロジェクトは PyTorch と Hugging Face Transformers を使用して、
+映画レビューを 「ポジティブ / ネガティブ」 に分類する感情分析モデルを構築するものです。
+事前学習済みモデル BERT をファインチューニングし、
+学習・評価・推論 API・Docker による再現環境まで一通り揃えています。
+
+
 🏋️‍♂️ モデルの学習
 1. データ準備
  と  を以下の形式で配置：
